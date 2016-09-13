@@ -1,0 +1,28 @@
+p {
+	max-height: 40px;
+	display: block;
+	overflow: hidden;
+}
+li {
+	display: block;
+	margin-bottom: 15px;
+}
+
+a {
+	display: block;
+}
+
+input {
+	margin-bottom: 20px;
+}
+
+.list_link {
+	display: inline-block;
+	margin-right: 5px;
+	cursor: pointer;
+}
+
+.list_link__db {
+	display: block;
+}
+
