@@ -30,7 +30,7 @@
 	var worker = new Worker('Paul');
 	var student = new Student('Crowl');
 	console.log(worker.name);
-	worker.work()
+	// worker.work()
 	console.log(student.name);
-	student.watchSerial();
+	// student.watchSerial();
 })(jQuery);
